@@ -1,0 +1,26 @@
+#title
+{
+    font-family: 'Dancing Script', cursive;
+    /* font-size: 20em; */
+    
+      
+         
+}
+
+label
+{
+    font-weight: bold;    
+}
+
+#firstname
+{
+
+font-style: italic;
+}
+
+#bouton
+{
+margin-left: 70%;
+margin-bottom:20px ;    
+}
+
